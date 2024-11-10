@@ -21,11 +21,11 @@ Apply the Opening operation using cv2.morphologyEx() with the cv2.MORPH_OPEN fla
 Apply the Closing operation using cv2.morphologyEx() with the cv2.MORPH_CLOSE flag.
  
 ## Program:
+```py
+#Developed by : Prajeeth K T
 
-### Developed by : Prajeeth K T
-
-### Reg.no :212222110034
-
+#Reg.no :212222110034
+```
 ```py
 # Import the necessary packages
 import cv2
