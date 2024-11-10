@@ -26,7 +26,7 @@ Apply the Closing operation using cv2.morphologyEx() with the cv2.MORPH_CLOSE fl
 
 ### Reg.no :212222110034
 
-```
+```py
 # Import the necessary packages
 import cv2
 import numpy as np
